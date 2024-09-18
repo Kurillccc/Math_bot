@@ -9,9 +9,9 @@ from itertools import zip_longest
 from telebot import types
 matplotlib.use('Agg') # Чтобы убрать ошибку (использует бэкенд Agg (Anti-Grain Geometry))
 
-token = '6045442074:AAEU4VY1RV08g33tnzbkiQxfb51mPy1mbgA'
+token = ''
 bot = telebot.TeleBot(token)
-id_send = '-1001884350546' # В какой чат отправить информацию об использовании
+id_send = '' # В какой чат отправить информацию об использовании
 administrator = 'kurillccc' # Кого не учитываем при отправке
 table_with_mailling_list = 'maillig_list'
 

@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import io
 from itertools import zip_longest
 from telebot import types
+
 matplotlib.use('Agg') # Чтобы убрать ошибку (использует бэкенд Agg (Anti-Grain Geometry))
 
 token = ''

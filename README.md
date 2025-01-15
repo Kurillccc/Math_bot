@@ -1,3 +1,13 @@
-I created this bot for a limited circle of people (including myself), so in some places the code looks simply disgusting, and even more so without OOP, but I wanted to show this work)
+# MathBot
 
-Also write it again here that the bot is working and is available here - https://t.me/HelpMateUnn_bot
+## ✨ Функционал
+- Отправка сообщений пользователям через базу данных.
+- Расчеты с использованием математических функций (math, numpy).
+- Генерация графиков с использованием библиотеки matplotlib.
+- Работа с базой данных SQLite для хранения данных пользователей.
+## 🤖 Основные библиотеки:
+- telebot для взаимодействия с Telegram API.
+- sqlite3 для работы с базой данных.
+- matplotlib и numpy для математической обработки данных и визуализации.
+## 📜 Ссылки
+[Макет Figma](https://www.figma.com/board/bdBT8fx46rJ47srANZEdjy/MathBot?node-id=0-1&t=pYLEN8CbGO6X6gfL-1)
